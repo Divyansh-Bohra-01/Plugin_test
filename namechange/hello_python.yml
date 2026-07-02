@@ -1,0 +1,6 @@
+id: hello_python
+namespace: company.team
+tasks:
+  - id: hello
+    type: io.kestra.core.tasks.log.Log
+    message: "Hello from Python"
