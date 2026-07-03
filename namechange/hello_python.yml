@@ -3,4 +3,4 @@ namespace: company.team
 tasks:
   - id: hello
     type: io.kestra.core.tasks.log.Log
-    message: "Hello from me"
+    message: "Hello from div2"
